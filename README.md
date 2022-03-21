@@ -4,11 +4,11 @@
 
 | No. | Example Cases | Article Links |
 | --- | --- | --- |
-| 01 | [Integer Underflow](01_integer_underflow) | - [Medium]()<br />- serial-coder[.]com (coming soon) |
+| 01 | [Integer Underflow](01_integer_underflow) | - Medium<br />- serial-coder[.]com (coming soon) |
 
 ## Copyright
 
-© [serial-coder](serial-coder.com): Phuwanai Thummavet (mr.thummavet@gmail.com). All rights reserved.
+© [serial-coder](https://www.serial-coder.com): Phuwanai Thummavet (mr.thummavet@gmail.com). All rights reserved.
 
 ## License
 
