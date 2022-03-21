@@ -4,6 +4,10 @@
 // Copyright 2022 serial-coder: Phuwanai Thummavet (mr.thummavet@gmail.com) //
 //--------------------------------------------------------------------------//
 
+// For more info, please refer to my article:
+//  - On Medium: (coming soon)
+//  - On serial-coder.com: (coming soon)
+
 pragma solidity 0.6.12;
 
 interface IEtherVault {
