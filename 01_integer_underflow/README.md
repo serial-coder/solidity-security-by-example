@@ -4,4 +4,4 @@ For more info, please refer to my article:
 
 | Example Case | Article Links |
 | --- | --- |
-| [Integer Underflow](01_integer_underflow) | - [Medium]()<br />- serial-coder[.]com (coming soon) |
+| [Integer Underflow]() | - [Medium]()<br />- serial-coder[.]com (coming soon) |
