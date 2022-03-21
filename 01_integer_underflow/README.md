@@ -2,6 +2,6 @@
 
 For more info, please refer to my article:
 
-| Example Case | Article Links |
+| Vulnerability Issue | Article Links |
 | --- | --- |
-| [Integer Underflow]() | - Medium<br />- serial-coder[.]com (coming soon) |
+| [Integer Underflow]() | - Medium (coming soon)<br />- serial-coder[.]com (coming soon) |

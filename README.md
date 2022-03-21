@@ -1,10 +1,18 @@
 # Solidity Security By Example
 
-## Example Cases
+**Smart contract security** is one of the biggest impediments toward the mass adoption of the blockchain. For this reason, we are proud to present this series of examples regarding Solidity smart contract security to educate and improve the knowledge in this domain to the public.
 
-| No. | Example Cases | Article Links |
+## Disclaimer
+
+The smart contracts in this repository are used to demonstrate vulnerability issues only. **Some contracts are vulnerable, some are simplified for minimal, some contain malicious code. Hence, do not use the source code in this repository in your production.**
+
+Nonetheless, feel free to contact **[Valix Consulting](https://valix.io)** for your smart contract consulting and auditing services.🕵
+
+## Vulnerability Issues
+
+| No. | Vulnerability Issues | Article Links |
 | --- | --- | --- |
-| 01 | [Integer Underflow](01_integer_underflow) | - Medium<br />- serial-coder[.]com (coming soon) |
+| 01 | [Integer Underflow](01_integer_underflow) | - Medium (coming soon)<br />- serial-coder[.]com (coming soon) |
 
 ## Copyright
 
