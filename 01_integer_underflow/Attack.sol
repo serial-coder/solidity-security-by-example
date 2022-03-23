@@ -5,7 +5,7 @@
 //--------------------------------------------------------------------------//
 
 // For more info, please refer to my article:
-//  - On Medium: (coming soon)
+//  - On Medium: https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-01-integer-underflow-c1147c2e507b
 //  - On serial-coder.com: (coming soon)
 
 pragma solidity 0.6.12;
