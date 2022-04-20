@@ -5,7 +5,7 @@
 //--------------------------------------------------------------------------//
 
 // For more info, please refer to my article:
-//  - On Medium: (coming soon)
+//  - On Medium: https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-03-reentrancy-via-modifier-fba6b1d8ff81
 //  - On serial-coder.com: (coming soon)
 
 pragma solidity 0.8.13;
