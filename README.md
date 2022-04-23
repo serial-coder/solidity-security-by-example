@@ -14,7 +14,7 @@ Nonetheless, feel free to contact **[Valix Consulting](https://valix.io)** for y
 | --- | --- | --- |
 | 01 | [Integer Underflow](01_integer_underflow) | - [On Medium](https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-01-integer-underflow-c1147c2e507b)<br /> - [On serial-coder.com](https://www.serial-coder.com/post/solidity-smart-contract-security-by-example-01-integer-underflow/) |
 | 02 | [Reentrancy](02_reentrancy) | - [On Medium](https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-02-reentrancy-b0c08cfcd555)<br /> - [On serial-coder.com](https://www.serial-coder.com/post/solidity-smart-contract-security-by-example-02-reentrancy/) |
-| 03 | [Reentrancy via Modifier](03_reentrancy_via_modifier) | - [On Medium](https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-03-reentrancy-via-modifier-fba6b1d8ff81)<br /> - On serial-coder[.]com (coming soon) |
+| 03 | [Reentrancy via Modifier](03_reentrancy_via_modifier) | - [On Medium](https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-03-reentrancy-via-modifier-fba6b1d8ff81)<br /> - [On serial-coder.com](https://www.serial-coder.com/post/solidity-smart-contract-security-by-example-03-reentrancy-via-modifier/) |
 
 ## Copyright
 
