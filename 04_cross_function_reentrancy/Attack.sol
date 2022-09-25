@@ -6,7 +6,7 @@
 
 // For more info, please refer to my article:
 //  - On Medium: https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-04-cross-function-reentrancy-de9cbce0558e
-//  - On serial-coder.com: (coming soon)
+//  - On serial-coder.com: https://www.serial-coder.com/post/solidity-smart-contract-security-by-example-04-cross-function-reentrancy/
 
 pragma solidity 0.8.13;
 
