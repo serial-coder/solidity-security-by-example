@@ -10,7 +10,7 @@ Nonetheless, feel free to contact **[Valix Consulting](https://valix.io)** for y
 
 ## Vulnerability Issues
 
-| No. | Vulnerability Issues | Article Links |
+| No. | Vulnerability Issue | Article Links |
 | --- | --- | --- |
 | 01 | [Integer Underflow](01_integer_underflow) | - [On Medium](https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-01-integer-underflow-c1147c2e507b)<br /> - [On serial-coder.com](https://www.serial-coder.com/post/solidity-smart-contract-security-by-example-01-integer-underflow/) |
 | 02 | [Reentrancy](02_reentrancy) | - [On Medium](https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-02-reentrancy-b0c08cfcd555)<br /> - [On serial-coder.com](https://www.serial-coder.com/post/solidity-smart-contract-security-by-example-02-reentrancy/) |
