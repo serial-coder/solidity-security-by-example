@@ -6,7 +6,7 @@
 
 // For more info, please refer to my article:
 //  - On Medium: https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-06-integer-overflow-e1f444f3cc4
-//  - On serial-coder.com: (coming soon)
+//  - On serial-coder.com: https://www.serial-coder.com/post/solidity-smart-contract-security-by-example-06-integer-overflow/
 
 pragma solidity 0.6.12;
 
