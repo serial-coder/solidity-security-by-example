@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: BSL-1.0 (Boost Software License 1.0)
 
-//--------------------------------------------------------------------------//
-// Copyright 2022 serial-coder: Phuwanai Thummavet (mr.thummavet@gmail.com) //
-//--------------------------------------------------------------------------//
+//---------------------------------------------------------------------------------//
+// Copyright 2022 - 2023 serial-coder: Phuwanai Thummavet (mr.thummavet@gmail.com) //
+//---------------------------------------------------------------------------------//
 
 // For more info, please refer to my article:
 //  - On Medium: https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-03-reentrancy-via-modifier-fba6b1d8ff81
