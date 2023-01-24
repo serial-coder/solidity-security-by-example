@@ -23,7 +23,7 @@ Nonetheless, feel free to contact **[Valix Consulting](https://valix.io)** for y
 
 ## Copyright
 
-© [serial-coder](https://www.serial-coder.com): Phuwanai Thummavet (mr.thummavet@gmail.com). All rights reserved.
+© 2022 - 2023 [serial-coder](https://www.serial-coder.com): Phuwanai Thummavet (mr.thummavet@gmail.com). All rights reserved.
 
 ## License
 
