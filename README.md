@@ -1,6 +1,6 @@
 # Solidity Security By Example
 
-**Smart contract security** is one of the biggest impediments toward the mass adoption of the blockchain. For this reason, we are proud to present this series of examples regarding Solidity smart contract security to educate and improve the knowledge in this domain to the public.
+**Smart contract security** is one of the biggest impediments to the mass adoption of the blockchain. For this reason, we are proud to present this series of examples regarding Solidity smart contract security to educate and improve the knowledge in this domain to the public.
 
 ## Disclaimer
 
@@ -19,10 +19,11 @@ Nonetheless, feel free to contact **[Valix Consulting](https://valix.io)** for y
 | 05 | [Cross-Contract Reentrancy](05_cross_contract_reentrancy) | - [On Medium](https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-05-cross-contract-reentrancy-30f29e2a01b9)<br /> - [On serial-coder.com](https://www.serial-coder.com/post/solidity-smart-contract-security-by-example-05-cross-contract-reentrancy/) |
 | 06 | [Integer Overflow](06_integer_overflow) | - [On Medium](https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-06-integer-overflow-e1f444f3cc4)<br /> - [On serial-coder.com](https://www.serial-coder.com/post/solidity-smart-contract-security-by-example-06-integer-overflow/) |
 | 07 | [Phishing With Improper Authorization](07_phishing_with_improper_authorization) | - [On Medium](https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-07-phishing-with-improper-authorization-232dacf307e3)<br /> - [On serial-coder.com](https://www.serial-coder.com/post/solidity-smart-contract-security-by-example-07-phishing-with-improper-authorization/) |
+| 08 | [Unexpected Ether With Forcibly Sending Ether](08_unexpected_ether_with_forcibly_sending_ether) | - [On Medium](https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-08-unexpected-ether-with-forcibly-sending-ether-e13be2c6b985)<br /> - On serial-coder[.]com (coming soon) |
 
 ## Copyright
 
-© [serial-coder](https://www.serial-coder.com): Phuwanai Thummavet (mr.thummavet@gmail.com). All rights reserved.
+© 2022 - 2023 [serial-coder](https://www.serial-coder.com): Phuwanai Thummavet (mr.thummavet@gmail.com). All rights reserved.
 
 ## License
 
