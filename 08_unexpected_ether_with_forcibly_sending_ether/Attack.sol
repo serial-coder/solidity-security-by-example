@@ -6,7 +6,7 @@
 
 // For more info, please refer to my article:
 //  - On Medium: https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-08-unexpected-ether-with-forcibly-sending-ether-e13be2c6b985
-//  - On serial-coder.com: (coming soon)
+//  - On serial-coder.com: https://www.serial-coder.com/post/solidity-smart-contract-security-by-example-08-unexpected-ether-with-forcibly-sending-ether/
 
 pragma solidity 0.8.17;
 
