@@ -5,7 +5,7 @@
 //-------------------------------------------------------------------------------------//
 
 // For more info, please refer to my article:
-//  - On Medium: (coming soon)
+//  - On Medium: https://medium.com/valixconsulting/solidity-security-by-example-09-denial-of-service-with-revert-814f55b61e02
 //  - On serial-coder.com: (coming soon)
 
 pragma solidity 0.8.19;
