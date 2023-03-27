@@ -21,6 +21,7 @@ Nonetheless, feel free to contact **[Valix Consulting](https://valix.io)** for y
 | 07 | [Phishing With Improper Authorization](07_phishing_with_improper_authorization) | - [On Medium](https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-07-phishing-with-improper-authorization-232dacf307e3)<br /> - [On serial-coder.com](https://www.serial-coder.com/post/solidity-smart-contract-security-by-example-07-phishing-with-improper-authorization/) |
 | 08 | [Unexpected Ether With Forcibly Sending Ether](08_unexpected_ether_with_forcibly_sending_ether) | - [On Medium](https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-08-unexpected-ether-with-forcibly-sending-ether-e13be2c6b985)<br /> - [On serial-coder.com](https://www.serial-coder.com/post/solidity-smart-contract-security-by-example-08-unexpected-ether-with-forcibly-sending-ether/) |
 | 09 | [Denial of Service With Revert](09_denial_of_service_with_revert) | - [On Medium](https://medium.com/valixconsulting/solidity-security-by-example-09-denial-of-service-with-revert-814f55b61e02)<br /> - On serial-coder[.]com (coming soon) |
+| 10 | [Denial of Service With Gas Limit](10_denial_of_service_with_gas_limit) | - On Medium (coming soon)<br /> - On serial-coder[.]com (coming soon) |
 
 ## Copyright
 
