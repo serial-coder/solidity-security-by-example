@@ -5,7 +5,7 @@
 //-------------------------------------------------------------------------------------//
 
 // For more info, please refer to my article:
-//  - On Medium: (coming soon)
+//  - On Medium: https://medium.com/valixconsulting/solidity-security-by-example-10-denial-of-service-with-gas-limit-346e87e2ef78
 //  - On serial-coder.com: (coming soon)
 
 pragma solidity 0.8.19;
