@@ -1,0 +1,45 @@
+// SPDX-License-Identifier: BSL-1.0 (Boost Software License 1.0)
+
+//-------------------------------------------------------------------------------------//
+// Copyright (c) 2022 - 2023 serial-coder: Phuwanai Thummavet (mr.thummavet@gmail.com) //
+//-------------------------------------------------------------------------------------//
+
+// For more info, please refer to my article:
+//  - On Medium: (coming soon)
+//  - On serial-coder.com: (coming soon)
+
+pragma solidity 0.6.12;
+
+contract VulnerableSimpleAirdrop {
+    address public immutable launcher;
+
+    constructor(address _launcher) public payable {
+        require(_launcher != address(0), "Launcher cannot be a zero address");
+        require(msg.value >= 1 ether, "Require at least 1 Ether");
+        launcher = _launcher;
+    }
+
+    modifier onlyLauncher() {
+        require(launcher == msg.sender, "You are not the launcher");
+        _;
+    }
+
+    function transferAirdrops(uint256 _amount, address[] calldata _receivers) external onlyLauncher {
+        require(_amount > 0, "Amount must be more than 0");
+        require(_receivers.length > 0, "Require at least 1 receiver");
+        require(
+            getBalance() >= _amount *  _receivers.length,  // Integer overflow issue (not the scope of this example)
+            "Insufficient Ether balance to transfer"
+        );
+
+        // Transfer airdrops to all receivers
+        for (uint8 i = 0; i < _receivers.length; i++) {
+            (bool success, ) = _receivers[i].call{value: _amount}("");  // Denial-of-service issue (not the scope of this example)
+            require(success, "Failed to send Ether");
+        }
+    }
+
+    function getBalance() public view returns (uint256) {
+        return address(this).balance;
+    }
+}
