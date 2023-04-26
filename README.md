@@ -22,6 +22,7 @@ Nonetheless, feel free to contact **[Valix Consulting](https://valix.io)** for y
 | 08 | [Unexpected Ether With Forcibly Sending Ether](08_unexpected_ether_with_forcibly_sending_ether) | - [On Medium](https://medium.com/valixconsulting/solidity-smart-contract-security-by-example-08-unexpected-ether-with-forcibly-sending-ether-e13be2c6b985)<br /> - [On serial-coder.com](https://www.serial-coder.com/post/solidity-smart-contract-security-by-example-08-unexpected-ether-with-forcibly-sending-ether/) |
 | 09 | [Denial of Service With Revert](09_denial_of_service_with_revert) | - [On Medium](https://medium.com/valixconsulting/solidity-security-by-example-09-denial-of-service-with-revert-814f55b61e02)<br /> - [On serial-coder.com](https://www.serial-coder.com/post/solidity-smart-contract-security-by-example-09-denial-of-service-with-revert/) |
 | 10 | [Denial of Service With Gas Limit](10_denial_of_service_with_gas_limit) | - [On Medium](https://medium.com/valixconsulting/solidity-security-by-example-10-denial-of-service-with-gas-limit-346e87e2ef78)<br /> - [On serial-coder.com](https://www.serial-coder.com/post/solidity-smart-contract-security-by-example-10-denial-of-service-with-gas-limit/) |
+| 11 | [Denial of Service With Induction Variable Overflow](11_denial_of_service_with_induction_variable_overflow) | - [On Medium](https://medium.com/valixconsulting/solidity-security-by-example-11-denial-of-service-with-induction-variable-overflow-9991299ac8e4)<br /> - On serial-coder[.]com (coming soon) |
 
 ## Copyright
 
