@@ -6,7 +6,7 @@
 
 // For more info, please refer to my article:
 //  - On Medium: https://medium.com/valixconsulting/solidity-security-by-example-11-denial-of-service-with-induction-variable-overflow-9991299ac8e4
-//  - On serial-coder.com: (coming soon)
+//  - On serial-coder.com: https://www.serial-coder.com/post/solidity-smart-contract-security-by-example-11-denial-of-service-with-induction-variable-overflow/
 
 pragma solidity 0.6.12;
 
