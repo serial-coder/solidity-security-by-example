@@ -23,7 +23,7 @@ Nonetheless, feel free to contact **[Valix Consulting](https://valix.io)** for y
 | 09 | [Denial of Service With Revert](09_denial_of_service_with_revert) | - [On Medium](https://medium.com/valixconsulting/solidity-security-by-example-09-denial-of-service-with-revert-814f55b61e02)<br /> - [On serial-coder.com](https://www.serial-coder.com/post/solidity-smart-contract-security-by-example-09-denial-of-service-with-revert/) |
 | 10 | [Denial of Service With Gas Limit](10_denial_of_service_with_gas_limit) | - [On Medium](https://medium.com/valixconsulting/solidity-security-by-example-10-denial-of-service-with-gas-limit-346e87e2ef78)<br /> - [On serial-coder.com](https://www.serial-coder.com/post/solidity-smart-contract-security-by-example-10-denial-of-service-with-gas-limit/) |
 | 11 | [Denial of Service With Induction Variable Overflow](11_denial_of_service_with_induction_variable_overflow) | - [On Medium](https://medium.com/valixconsulting/solidity-security-by-example-11-denial-of-service-with-induction-variable-overflow-9991299ac8e4)<br /> - [On serial-coder.com](https://www.serial-coder.com/post/solidity-smart-contract-security-by-example-11-denial-of-service-with-induction-variable-overflow/) |
-| 12 | [Amplification Attack (Double Spending #1)](12_amplification_attack__double_spending_01) | - On Medium (coming soon)<br /> - On serial-coder[.]com (coming soon) |
+| 12 | [Amplification Attack (Double Spending #1)](12_amplification_attack__double_spending_01) | - [On Medium](https://medium.com/valixconsulting/solidity-security-by-example-12-amplification-attack-double-spending-1-990b2da52e6c)<br /> - On serial-coder[.]com (coming soon) |
 
 ## Copyright
 

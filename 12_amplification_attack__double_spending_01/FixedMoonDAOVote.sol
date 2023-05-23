@@ -5,7 +5,7 @@
 //-------------------------------------------------------------------------------------//
 
 // For more info, please refer to my article:
-//  - On Medium: (coming soon)
+//  - On Medium: https://medium.com/valixconsulting/solidity-security-by-example-12-amplification-attack-double-spending-1-990b2da52e6c
 //  - On serial-coder.com: (coming soon)
 
 pragma solidity 0.8.20;
