@@ -5,7 +5,7 @@
 //-------------------------------------------------------------------------------------//
 
 // For more info, please refer to my article:
-//  - On Medium: (coming soon)
+//  - On Medium: https://medium.com/valixconsulting/solidity-security-by-example-13-double-spending-2-609ba4402aca
 //  - On serial-coder.com: (coming soon)
 
 pragma solidity 0.8.20;
