@@ -6,7 +6,7 @@
 
 // For more info, please refer to my article:
 //  - On Medium: https://medium.com/valixconsulting/solidity-security-by-example-13-double-spending-2-609ba4402aca
-//  - On serial-coder.com: (coming soon)
+//  - On serial-coder.com: https://www.serial-coder.com/post/solidity-smart-contract-security-by-example-13-double-spending-02/
 
 pragma solidity 0.8.20;
 
